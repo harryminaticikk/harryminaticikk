@@ -1,3 +1,4 @@
+## Hakkımda
 # Heyyo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 **Ben Bora.** Discord üzerinde çeşitli projelerimi paylaşıyorum, kendime developerim. Yeni şeyler keşfetmeyi ve yaratmayı severim..
 Projelerimi öğrenmek için, [tıkla!](https://github.com/harryminaticikk?tab=repositories)
@@ -14,6 +15,6 @@ Projelerimi öğrenmek için, [tıkla!](https://github.com/harryminaticikk?tab=r
 [![Github](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/harryminaticikk)
 [![Reddit](https://img.shields.io/badge/Reddit%20-ff4500.svg?&amp;style=for-the-badge&amp;logo=reddit&amp;logoColor=white)](https://reddit.com/u/harryminaticikk)
 
-## ✨ Bilgi
+## ✨ Github İstatistikler
 [![harryminaticikk's Github stats](https://github-readme-stats.vercel.app/api?username=harryminaticikk&count_private=true&show_icons=true&theme=dark&hide_border=true)](#)
 [![harryminaticikk's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harryminaticikk&theme=dark&count_private=true&show_icons=true&hide_border=true)](#)
