@@ -3,7 +3,8 @@
 Projelerimi öğrenmek için, [tıkla!](https://github.com/harryminaticikk?tab=repositories)
 
 
-[![discord-profile](https://lanyard-profile-readme.vercel.app/api/745286954752671744)](https://discord.com/users/745286954752671744)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/:745286954752671744)
+
 
 ## 🔗 Bağlantılar
 [![Discord](https://img.shields.io/badge/Discord%20-5865f2.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/745286954752671744)
