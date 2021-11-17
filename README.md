@@ -1,4 +1,4 @@
-## Hakkımda
+
 # Heyyo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 **Ben Bora.** Discord üzerinde çeşitli projelerimi paylaşıyorum, kendime developerim. Yeni şeyler keşfetmeyi ve yaratmayı severim..
 Projelerimi öğrenmek için, [tıkla!](https://github.com/harryminaticikk?tab=repositories)
