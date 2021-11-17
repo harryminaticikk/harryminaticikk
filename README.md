@@ -2,7 +2,7 @@
 **Ben Bora.** Discord üzerinde çeşitli projelerimi paylaşıyorum, kendime developerim. Yeni şeyler keşfetmeyi ve yaratmayı severim..
 Projelerimi öğrenmek için, [tıkla!](https://github.com/harryminaticikk?tab=repositories)
 
-https://discord.com/users/745286954752671744
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/:732579105240907846)bg=:white
 
 
 ## 🔗 Bağlantılar
