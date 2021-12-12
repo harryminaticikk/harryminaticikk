@@ -4,7 +4,7 @@
 Projelerimi öğrenmek için, [tıkla!](https://github.com/harryminaticikk?tab=repositories)
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/732579105240907846?)](https://discords.com/bio/p/harryminati)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/745286954752671744)](https://discords.com/bio/p/harryminati)
 
 
 ## 🔗 Bağlantılar
