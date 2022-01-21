@@ -18,6 +18,7 @@ Projelerimi öğrenmek için, [tıkla!](https://github.com/harryminaticikk?tab=r
 [![harryminaticikk's Github stats](https://github-readme-stats.vercel.app/api?username=harryminaticikk&count_private=true&show_icons=true&theme=dark&hide_border=true)](#)
 [![harryminaticikk's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harryminaticikk&theme=dark&count_private=true&show_icons=true&hide_border=true)](#)
 
+```
 var harryminaticikk = {
      "name": bora,
      "age": 16,
@@ -28,3 +29,4 @@ var harryminaticikk = {
 }
 
 console.log(Hello world!);
+```
