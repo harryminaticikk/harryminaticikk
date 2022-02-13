@@ -3,8 +3,7 @@
 **Ben Bora.** Discord üzerinde çeşitli projelerimi paylaşıyorum, kendime developerim. Yeni şeyler keşfetmeyi ve yaratmayı severim..
 Projelerimi öğrenmek için, [tıkla!](https://github.com/harryminaticikk?tab=repositories)
 
-[![Profile Visits](https://gpvc.arturio.dev/harryminaticikk)
-
+![Profile Visits](https://gpvc.arturio.dev/harryminaticikk)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/745286954752671744)](https://discords.com/bio/p/harryminati)
 
 
