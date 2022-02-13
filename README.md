@@ -15,6 +15,7 @@ Projelerimi öğrenmek için, [tıkla!](https://github.com/harryminaticikk?tab=r
 [![Github](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/harryminaticikk)
 [![Reddit](https://img.shields.io/badge/Reddit%20-ff4500.svg?&amp;style=for-the-badge&amp;logo=reddit&amp;logoColor=white)](https://reddit.com/u/harryminaticikk)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/u/harrycikk)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.com/u/whiskyinq)
 
 ## ✨ Stats
 [![harryminaticikk's Github stats](https://github-readme-stats.vercel.app/api?username=harryminaticikk&count_private=true&show_icons=true&theme=dark&hide_border=true)](#)
